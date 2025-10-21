@@ -8,3 +8,18 @@ Web lowongan kerja sederhana untuk peserta didik SKB Salatiga.
 - **CodeIgniter 3**
 - **MySQL / MariaDB**
 - **Bootstrap / CSS**
+
+# User Login
+
+- Admin
+username  : admin
+password  : admin
+
+- Perusahaan
+username  : sci
+password  : sci
+
+- Peserta didik
+username  : rian
+password  : rian
+
